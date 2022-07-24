@@ -13,8 +13,13 @@ SML is a simple markup language designed for its ease of use and a new XML for m
 Example of a Structured Markup Language File
 # Get Started
 As you can see, Every SML File starts with <sml> and ends with </sml>
+
 A Tag starts with <tag> and ends with </tag>
+
 A Break Tag Starts with <tag break="y"> and does not end
+  
 A Options Tag Starts with <tag option="value"> and ends with </tag>
+  
 A Comment starts with --/ (end is optional)
+  
 That is Basic Knowledge Base of SML
